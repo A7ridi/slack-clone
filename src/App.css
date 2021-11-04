@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  --slack-color: #3f0f40;
+  overflow: hidden;
+  margin: 0;
+}
+
+form button.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+  /* display: none !important; */
+}
+form
+  button
+  .MuiButton-root
+  .MuiButton-text
+  .MuiButton-textPrimary
+  .MuiButton-sizeMedium
+  .MuiButton-textSizeMedium
+  .MuiButtonBase-root
+  .css-1ujsas3 {
+  display: none !important;
+}
